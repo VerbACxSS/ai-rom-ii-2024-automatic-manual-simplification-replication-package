@@ -1,0 +1,15 @@
+numpy==1.26.4
+scipy==1.15.1
+pandas==2.2.3
+openpyxl==3.1.1
+matplotlib==3.10.0
+scikit-learn==1.6.1
+
+pingouin==0.5.5
+statsmodels==0.14.4
+krippendorff==0.8.1
+cliffs-delta==1.0.0
+
+xhtml2pdf==0.2.11
+
+italian-ats-evaluator==2.0.6
